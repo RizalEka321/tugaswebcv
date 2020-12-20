@@ -1,0 +1,38 @@
+* {
+  overflow-x: hidden;
+}
+
+.main-header {
+  background-image: url(asset/img/keren.jpg);
+  background-repeat: no repeat;
+  background-size: cover;
+}
+h4 {
+  color: rgb(255, 255, 255);
+  font-family: cursive;
+  font-size: 25px;
+}
+
+h6 {
+  color: rgb(212, 223, 8);
+  font-family: Brush Script MT;
+  font-size: 25px;
+}
+.main-cerita {
+  background-color: rgb(212, 223, 8);
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+h3 {
+  font-family: "Times New Roman";
+}
+
+h5 {
+  font-family: "Times New Roman";
+}
+.main-footer {
+  background-color: black;
+  color: white;
+  padding: 5% 0%;
+}
